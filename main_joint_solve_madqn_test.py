@@ -1,7 +1,8 @@
 """
 @author: Ning zhe Shi
-@time: 2025年4月16日
+@time: 2025年4月16日  -> 2025-09-17
 根据审稿人意见补充DRL对比算法,测试脚本
+当导入DAQN为attention-based DQN,当导入DQN时为DQN
 """
 import sys
 import numpy as np
